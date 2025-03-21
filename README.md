@@ -14,6 +14,7 @@ I am a **Full-Stack Developer** specializing in **ASP.NET Core, REST APIs, and c
 ✅ Clean Architecture & Repository Pattern  
 
 ### **Frontend Development**  
+✅ WPF - MVVM
 ✅ React.js & Redux  
 ✅ Angular (Learning in Progress)  
 ✅ Tailwind CSS & Material UI  
